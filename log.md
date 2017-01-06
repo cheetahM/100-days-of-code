@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 3: January 05, 2017, Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created a JavaScript drum kit.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Had fun playing with audio element, handling keyboard events, adding and removing classes using vanilla JS.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [JavaScript Drum Kit](http://codepen.io/cheetahM/pen/MJYNXj)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 04, 2017, Wednesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Redux, React app to create a BookList.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Learned how to architect React apps to manage state using Redux.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [BookList App](https://github.com/cheetahM/ReduxApp.git)
 
 
-### Day 1: June 27, Monday
+### Day 1: January 03, 2017, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through Redux tutorials and created a Redux counter in vanilla JavaScript.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've been trying to learn Redux for a while and finally I have started getting my hands dirty.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** [Redux Counter](https://github.com/cheetahM/reduxCounter.git)
