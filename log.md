@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 06, 2017, Thursday
+
+**Today's Progress**: Created a JavaScript clock.
+
+**Thoughts:** Had fun css transform and Date object
+
+
 ### Day 3: January 05, 2017, Thursday
 
 **Today's Progress**: Created a JavaScript drum kit.
