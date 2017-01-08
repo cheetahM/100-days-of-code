@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 4: January 06, 2017, Thursday
+### Day 5: January 07, 2017, Saturday
+
+**Today's Progress**: My Portfolio.
+
+**Thoughts:** Created my portfolio cite by buying a go-daddy domain and connecting it to gh-pages for deployment. The site is created using ReactJs, es6, babel and webpack.
+
+**Link to work:** [chetanmeshram.com](http://chetanmeshram.com)
+
+### Day 4: January 06, 2017, Friday
 
 **Today's Progress**: Created a JavaScript clock.
 
