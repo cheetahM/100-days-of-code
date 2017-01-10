@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 09, 2017, Monday
+
+**Today's Progress**: My Portfolio.
+
+**Thoughts:** Changed my Portfolio from pure ReactJs to use Redux using store, reducers and connect
+
+**Link to work:** [chetanmeshram.com](http://chetanmeshram.com)
+
 ### Day 5: January 07, 2017, Saturday
 
 **Today's Progress**: My Portfolio.
