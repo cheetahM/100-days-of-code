@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 5: January 09, 2017, Monday
+### Day 7: January 10, 2017, Monday
+
+**Today's Progress**: My Portfolio.
+
+**Thoughts:** Added action creators and refactored for contextful component names
+
+**Link to work:** [chetanmeshram.com](http://chetanmeshram.com)
+
+### Day 6: January 09, 2017, Monday
 
 **Today's Progress**: My Portfolio.
 
