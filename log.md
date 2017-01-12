@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 11, 2017, Monday
+
+**Today's Progress**: My Portfolio.
+
+**Thoughts:** Added css and layout component
+
+**Link to work:** [chetanmeshram.com](http://chetanmeshram.com)
+
 ### Day 7: January 10, 2017, Monday
 
 **Today's Progress**: My Portfolio.
