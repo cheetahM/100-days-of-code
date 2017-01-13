@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 12, 2017, Monday
+
+**Today's Progress**: My Portfolio.
+
+**Thoughts:** Added nav bar component and css for it.
+
+**Link to work:** [chetanmeshram.com](http://chetanmeshram.com)
+
 ### Day 8: January 11, 2017, Monday
 
 **Today's Progress**: My Portfolio.
